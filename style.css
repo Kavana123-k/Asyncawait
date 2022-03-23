@@ -1,0 +1,21 @@
+.flex-container {
+  /* display: flex;
+  flex-wrap: nowrap; */
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+div.tododiv {
+  overflow: auto;
+}
+
+header {
+  background-color: #f1eaea;
+}
+
+h1 {
+  text-align: center;
+}
+/* div.completdiv {
+  overflow: auto;
+} */
